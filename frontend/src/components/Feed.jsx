@@ -78,7 +78,7 @@ const Feed = ({ list, type = "horizontal" }) => {
                     </li>
 
                     <li className="font-poppins text-white">
-                        Next era of creators and subscribers
+                        Next era of creators and fans
                     </li>
                 </div>
             </div>
