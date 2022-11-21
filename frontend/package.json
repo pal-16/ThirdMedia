@@ -1,5 +1,5 @@
 {
-  "name": "hoobank",
+  "name": "thirdmedia",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,9 +30,9 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
-    "autoprefixer": "^10.4.7",
+    "autoprefixer": "10.4.5",
     "postcss": "^8.4.14",
-    "tailwindcss": "^3.1.6",
+    "tailwindcss": "^3.2.4",
     "vite": "^3.0.0"
   }
 }
