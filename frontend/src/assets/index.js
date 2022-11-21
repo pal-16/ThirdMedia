@@ -1,9 +1,5 @@
-import airbnb from "./airbnb.png";
 import bill from "./bill.png";
-import binance from "./binance.png";
 import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
@@ -27,12 +23,8 @@ import pawan from "./pawan.jpeg";
 import srushti from "./srushti.jpg";
 import home1 from "./home1.JPG";
 export {
-  airbnb,
   bill,
-  binance,
   card,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   robot,
